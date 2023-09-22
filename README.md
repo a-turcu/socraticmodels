@@ -11,7 +11,7 @@ To install the environment, run:
 `python -m spacy download en`
 
 ## Instructions
-This repository provides scripts for CLIP with GPT-3, FLAN-T5, GitVision, BLIP and BLIP2 prompting, and self-contained ipython notebooks with prototype implementations of Socratic Models for image captioning geenration, chain-of-thought and visual question answering.
+This repository provides scripts for CLIP with GPT-3, FLAN-T5, GitVision, BLIP and BLIP2 prompting, and self-contained ipython notebooks with prototype implementations of Socratic Models for image captioning generation, chain-of-thought and visual question answering.
 The project was organised such that the downloading, caching and organisation of files is managed by the code.
 The classes were built in a modular fashion such that they could be adapted to different use-cases.
 
